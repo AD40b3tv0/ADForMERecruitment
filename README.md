@@ -12,12 +12,18 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 ## Running solution
 
 ### Running using Visual Studio
-Open the solution, press `Ctrl+Q` (Quick Launch) and search for "Configure startup projects" in Feature Search.
-In the Solution Property Pages, select the Common Properties tab, and then select Configure Startup Projects.
-In the Configure Startup Projects section, choose the Multiple startup projects radio button.
-Select "AD Default Profile" profile. 
-Select the OK or Apply button to save the profile.
-The created launch profile appears in the toolbar dropdown list, allowing you to select the profile you want to debug.
+Open the solution, press `Ctrl+Q` (Quick Launch) and search for "Configure startup projects" in Feature Search.  
+
+In the Solution Property Pages, select the Common Properties tab, and then select Configure Startup Projects.  
+
+In the Configure Startup Projects section, choose the Multiple startup projects radio button.  
+
+Select "AD Default Profile" profile.  
+
+Select the OK or Apply button to save the profile.  
+
+The created launch profile appears in the toolbar dropdown list, allowing you to select the profile you want to debug.  
+
 
 Click the green "Start" button on the toolbar 
 or press `F5` to start debugging, or press `Ctrl+F5` to run without debugging.
