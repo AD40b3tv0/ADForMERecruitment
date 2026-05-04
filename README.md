@@ -38,7 +38,7 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 
 
-### Running using Visual Studio
+### Running using Visual Studio 2022
 **Both SDK 9.0.313 and ASP.NET Core Runtime 9.0.15 are needed to run the solution via Visual Studio.** 
 
 Download link:  
