@@ -11,25 +11,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 
 ## Running solution
 
-### Running using Visual Studio
-Open the solution, press `Ctrl+Q` (Quick Launch) and search for "Configure startup projects" in Feature Search.  
-
-In the Solution Property Pages, select the Common Properties tab, and then select Configure Startup Projects.  
-
-In the Configure Startup Projects section, choose the Multiple startup projects radio button.  
-
-Select "AD Default Profile" profile.  
-
-Select the OK or Apply button to save the profile.  
-
-The created launch profile appears in the toolbar dropdown list, allowing you to select the profile you want to debug.  
-
-
-Click the green "Start" button on the toolbar 
-or press `F5` to start debugging, or press `Ctrl+F5` to run without debugging.
-
-
-### Running using CLI
+### Running using CLI (PREFERRED METHOD)
 
 #### Backend
 CD to `(...)/ADForMERecruitment/Backend.Api`, then run:
@@ -38,6 +20,8 @@ dotnet run --launch-profile https
 ```
 
 #### Frontend
+Open another CLI.  
+
 CD to `(...)/ADForMERecruitment/Frontend`, then run:
 
 ```bash
@@ -51,6 +35,31 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
 
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+
+
+
+### Running using Visual Studio
+Open the solution, press `Ctrl+Q` (Quick Launch) and search for "Configure startup projects" in Feature Search.  
+
+In the Solution Property Pages, select the Common Properties tab, and then select Configure Startup Projects.  
+
+In the Configure Startup Projects section, choose the Multiple startup projects radio button.  
+
+Select "AD Default Profile" profile.  
+
+Select the OK or Apply button to save the profile.  
+
+Pop-up will appear: "Do you want to save the changes you've made in the property pages?"  
+
+Select "Yes".  
+
+The created launch profile appears in the toolbar dropdown list, allowing you to select the profile you want to debug.  
+
+
+Click the green "Start" button on the toolbar 
+or press `F5` to start debugging, or press `Ctrl+F5` to run without debugging.
+
+
 
 ## Info
 
