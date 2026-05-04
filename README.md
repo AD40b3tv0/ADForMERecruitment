@@ -39,7 +39,13 @@ Once the server is running, open your browser and navigate to `http://localhost:
 
 
 ### Running using Visual Studio
-Open the solution, press `Ctrl+Q` (Quick Launch) and search for "Configure startup projects" in Feature Search.  
+**Both SDK 9.0.313 and ASP.NET Core Runtime 9.0.15 are needed to run the solution via Visual Studio.** 
+
+Download link:  
+
+https://dotnet.microsoft.com/en-us/download/dotnet/9.0
+
+After SDK and Runtime update open the solution, press `Ctrl+Q` (Quick Launch) and search for "Configure startup projects" in Feature Search.  
 
 In the Solution Property Pages, select the Common Properties tab, and then select Configure Startup Projects.  
 
