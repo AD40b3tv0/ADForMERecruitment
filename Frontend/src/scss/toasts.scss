@@ -1,0 +1,10 @@
+.toastify {
+  &.info {
+    background: linear-gradient(90deg, oklch(53.18% 0.28 296.97), oklch(69.02% 0.277 332.77));
+  }
+
+  &.error {
+    background: linear-gradient(90deg, oklch(61.42% 0.238 15.34), oklch(63.32% 0.24 31.68));
+  }
+}
+

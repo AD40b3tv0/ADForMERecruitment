@@ -1,0 +1,82 @@
+<mat-card class="products-card">
+  <div class="header">
+    <div class="title">
+      <mat-card-title>Produkty</mat-card-title>
+      <mat-card-subtitle>Przeglądaj katalog produktów</mat-card-subtitle>
+    </div>
+  </div>
+
+  <mat-divider/>
+
+
+  <div class="product-list">
+    <div class="controls-row">
+      <mat-form-field appearance="outline" class="search">
+        <mat-icon matPrefix>search</mat-icon>
+        <input matInput placeholder="Szukaj (kod lub nazwa)" [ngModel]="search()" (ngModelChange)="search.set($event); page.set(1)">
+        @if (search()) {
+          <button mat-icon-button matSuffix (click)="search.set('')">
+            <mat-icon>close</mat-icon>
+          </button>
+        }
+      </mat-form-field>
+
+      <div class="right-controls">
+        <mat-form-field appearance="outline" class="small">
+          <mat-label>Ilość na stronie</mat-label>
+          <mat-select [value]="pageSize()" (selectionChange)="pageSize.set($event.value); page.set(1)">
+            @for (size of pageSizes; track size) {
+              <mat-option [value]="size">{{ size }}</mat-option>
+            }
+          </mat-select>
+        </mat-form-field>
+        <mat-form-field appearance="outline">
+          <mat-label>Sortowanie</mat-label>
+          <mat-select [value]="sortBy()" (selectionChange)="sortBy.set($event.value)">
+            @for (sortingOption of sortingOptions; track sortingOption.value) {
+              <mat-option [value]="sortingOption.value">{{ sortingOption.label }}</mat-option>
+            }
+          </mat-select>
+        </mat-form-field>
+        <button mat-icon-button (click)="toggleDesc()" title="Toggle sort direction">
+          <mat-icon>{{ sortDesc() ? 'arrow_downward' : 'arrow_upward' }}</mat-icon>
+        </button>
+      </div>
+    </div>
+
+    <mat-divider/>
+
+    <mat-list role="list">
+      @for (product of products(); track product.id) {
+        <mat-list-item role="listitem">
+          <app-product-item 
+            [product]="product" 
+            class="card"
+          />
+        </mat-list-item>
+      }
+      @if (products().length === 0) {
+        <div class="empty">
+          <div>Brak produktów do wyświetlenia.</div>
+        </div>
+      }
+    </mat-list>
+
+    <div class="paginator">
+      <div class="summary">
+        <span>Strona {{ page() }} z {{ totalPages() || 1 }}</span>
+        <span class="spacer"></span>
+      </div>
+
+      <div class="controls">
+        <button mat-stroked-button (click)="prev()" [disabled]="page() <= 1">
+          <mat-icon>chevron_left</mat-icon> Poprzednia
+        </button>
+
+        <button mat-stroked-button (click)="next()" [disabled]="page() >= (totalPages() || 0)">
+          Następna <mat-icon>chevron_right</mat-icon>
+        </button>
+      </div>
+    </div>
+  </div>
+</mat-card>

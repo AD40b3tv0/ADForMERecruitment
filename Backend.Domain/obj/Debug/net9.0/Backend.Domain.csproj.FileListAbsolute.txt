@@ -1,0 +1,11 @@
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\bin\Debug\net9.0\Backend.Domain.deps.json
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\bin\Debug\net9.0\Backend.Domain.dll
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\bin\Debug\net9.0\Backend.Domain.pdb
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\obj\Debug\net9.0\Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\obj\Debug\net9.0\Backend.Domain.AssemblyInfoInputs.cache
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\obj\Debug\net9.0\Backend.Domain.AssemblyInfo.cs
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\obj\Debug\net9.0\Backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\obj\Debug\net9.0\Backend.Domain.dll
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\obj\Debug\net9.0\refint\Backend.Domain.dll
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\obj\Debug\net9.0\Backend.Domain.pdb
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Domain\obj\Debug\net9.0\ref\Backend.Domain.dll

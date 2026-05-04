@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4EH4CbxTNI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ao\\Documents\\_Repos\\ADForMERecruitment\\ADForMERecruitment\\Backend.Api\\Backend.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ao\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\mediatr\\14.1.0\\mediatr.14.1.0.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.15\\microsoft.aspnetcore.openapi.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.15\\microsoft.entityframeworkcore.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.15\\microsoft.entityframeworkcore.abstractions.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.15\\microsoft.entityframeworkcore.analyzers.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.15\\microsoft.entityframeworkcore.inmemory.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.15\\microsoft.extensions.caching.abstractions.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.15\\microsoft.extensions.caching.memory.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.15\\microsoft.extensions.dependencyinjection.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.extensions.logging\\9.0.15\\microsoft.extensions.logging.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.extensions.options\\9.0.15\\microsoft.extensions.options.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.15\\microsoft.extensions.primitives.9.0.15.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512",
+    "C:\\Users\\Ao\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0\\system.diagnostics.diagnosticsource.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

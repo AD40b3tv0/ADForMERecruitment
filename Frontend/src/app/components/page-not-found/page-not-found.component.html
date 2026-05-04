@@ -1,0 +1,13 @@
+<div class="card">
+  <strong>Nie znaleziono strony (404)</strong>
+  @if (redirectedCanceled()) {
+    <p>Przekierowanie zostało anulowane. Użyj menu nawigacji.</p>
+  } @else {
+    <p>
+      Zostaniesz przekierowany na stronę główną za {{ countdown() }} sekund...
+    </p>
+    <button mat-stroked-button (click)="cancelRedirection()">
+      <mat-icon>cancel</mat-icon> Anuluj
+    </button>
+  }
+</div>

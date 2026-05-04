@@ -1,0 +1,17 @@
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\bin\Debug\net9.0\Backend.Infrastracture.deps.json
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\bin\Debug\net9.0\Backend.Infrastracture.dll
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\bin\Debug\net9.0\Backend.Infrastracture.pdb
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\bin\Debug\net9.0\Backend.Application.dll
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\bin\Debug\net9.0\Backend.Domain.dll
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\bin\Debug\net9.0\Backend.Application.pdb
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\bin\Debug\net9.0\Backend.Domain.pdb
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\Backend.Infrastracture.csproj.AssemblyReference.cache
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\Backend.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\Backend.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\Backend.Infrastracture.AssemblyInfo.cs
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\Backend.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\Backend..24BE1C81.Up2Date
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\Backend.Infrastracture.dll
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\refint\Backend.Infrastracture.dll
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\Backend.Infrastracture.pdb
+C:\Users\Ao\Documents\_Repos\ADForMERecruitment\ADForMERecruitment\Backend.Infrastracture\obj\Debug\net9.0\ref\Backend.Infrastracture.dll

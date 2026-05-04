@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "AD Default Profile",
+    "Projects": [
+      {
+        "Path": "Backend.Api\\Backend.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Frontend\\Frontend.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
